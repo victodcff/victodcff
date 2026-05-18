@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Rodrigo Victor!<br> 🇧🇷 Aracaju - SE<br>"𝘕𝘢𝘥𝘢 𝘤𝘰𝘮𝘰 𝘶𝘮 𝘥𝘪𝘢 𝘢𝘱ó𝘴 𝘰 𝘰𝘶𝘵𝘳𝘰."</p>
+<p align="center">👋 Hi, I'm Rodrigo Victor!<br> 🇧🇷 Aracaju - SE<br>"𝘕𝘢𝘥𝘢 𝘤𝘰𝘮𝘰 𝘶𝘮 𝘥𝘪𝘢 𝘢𝘱ó𝘴 𝘰 𝘰𝘶𝘵𝘳𝘰."</p>
 
 ###
 
@@ -36,6 +36,6 @@
 
 ###
 
-<p align="left">↣ Technical Degree in Systems Development || SENAI || High School Integrated (2024 - 2026)<br>↣ Core Subjects || Programming Logic || HTML5 || CSS3 || JavaScript || Node.js || SQL Databases.</p>
+<p align="center">↣ Technical Degree in Systems Development || SENAI || High School Integrated (2024 - 2026)<br>↣ Core Subjects || Programming Logic || HTML5 || CSS3 || JavaScript || Node.js || SQL Databases.</p>
 
 ###
